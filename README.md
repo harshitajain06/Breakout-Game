@@ -108,7 +108,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://studio.code.org/projects/gamelab/W1Q1SAA4GAYhTj_RA7e8U8gvvs1jjkaamasxTbAgylk)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
